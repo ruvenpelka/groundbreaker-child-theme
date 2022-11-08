@@ -1,0 +1,15 @@
+/**
+ * CHILD-GLOBAL.CSS
+ *
+ * This file is enqueued on the frontend and the block editor. Here you can
+ * override CSS code or variables that are defined in the parent theme.
+ */
+
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+@import "../../../../groundbreaker/assets/css/src/tailwind/tailwind-layers.css";
+
+
+/**
+ * LAYER/NAME
+ */
